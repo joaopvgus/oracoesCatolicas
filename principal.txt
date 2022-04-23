@@ -1,0 +1,57 @@
+<CAPA>
+
+
+<PÁGINA EM BRANCO>
+
+
+<PRIMEIRA PÁGINA DE TÍTULO>
+	<TOPO fonte:Marco, tamanho: 12>
+		ORATIONES CATHOLICAE
+
+
+<PÁGINA EM BRANCO>
+
+
+<SEGUNDA PÁGINA DE TÍTULO>
+	<TOPO fonte: caslon, tamanho: 12>
+		TRABALHO COMUNITÁRIO / DE CATÓLICOS PARA CATÓLICOS
+	<MEIO>
+		<TOPO fonte: Marco, tamanho: 20>
+			ORATIONES CATHOLICAE
+		<FIM fonte: caslon, tamanho: 16>
+			Latim - Português
+	<FIM fonte: Marco, tamanho: 12>
+		ORAÇÕES CATÓLICAS
+
+
+<PÁGINA EM BRANCO>
+
+
+<PÁGINA COM TEXTO NO MEIO fonte: Marco, tamanho: 14>
+	Seja livre para fazer o que bem intender com este livro
+	Salus animarum suprema Lex
+
+
+<PÁGINA EM BRANCO>
+
+
+<SUMÁRIO>
+
+
+<PÁGINA EM BRANCO>
+
+
+<CORPO DO LIVRO>
+
+	<BLOCO nome: 1.INTRODUÇÃO>
+	
+		<TÍTULO 1 fonte: Marco, tamanho: 14>
+			1.INTRODUÇÃO
+		
+		<TEXTO fonte: caslon, tamanho: 12>
+		
+			<TRECHO fonte: Marco>Salvete, carissime et carissimaeque</TRECHO>. Este livro é fruto de um projeto idealizado e realizado por pessoas que têm amor à Tradição da Santa Igreja, e que desejam, com pequenas contribuições, produzir continuamente um documento acessível a todos, para que nos mantenhamos em contato com a Mãe Igreja, e resgatemos Sua tradição bimilenar.
+			Esperamos com este projeto poder unir em um só lugar as orações feitas pelos santos de todos os cantos da Terra, para que nossos lábios profiram suas mesmas palavras, e nosso coração se transfigure tal qual o deles.
+	
+
+</CORPO DO LIVRO>
